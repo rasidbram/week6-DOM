@@ -112,14 +112,20 @@
   
   // var mainHeader=document.createElement('h2');
   //  div1.appendChild(mainHeader);
-  
+
+  // var header=document.createElement('h2');
+  // document.getElementById('countries').appendChild(header);
+  // header.innerHTML='some countries';
+
+ 
+
+
 
   var div = document.getElementById("countries");
 
   var div1=document.querySelector('.row');
 
-  var myFoot = document.createElement("footer");
-  document.body.appendChild(myFoot);
+ 
 
   for (var i = 0; i < cities.length; i++) {
     var id = cities[i];

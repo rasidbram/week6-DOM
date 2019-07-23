@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
 .setH1{
   font-family:'Fascinate Inline', cursive;
   font-size: 3rem;
   color:#3CBCC3;
   font-weight:bolder;
+}
+.setH2{
+  font-size: 3rem;
+  color:white;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  padding:3%;
 }
 
 img{
