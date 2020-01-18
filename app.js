@@ -1,5 +1,3 @@
-(function () {
-
 
   var cities = [
     "England$London",
@@ -165,4 +163,3 @@
 
 
 
-})();
